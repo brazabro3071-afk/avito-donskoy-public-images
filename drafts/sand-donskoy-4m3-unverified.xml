@@ -3,8 +3,8 @@
   <Ad>
     <Id>andrey-donskoy-new-20261027-01</Id>
     <Category>Ремонт и строительство</Category>
-    <ProductType>Стройматериалы</ProductType>
-    <ProductSubtype>Сыпучие материалы</ProductSubtype>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Сыпучие материалы</GoodsSubType>
     <BulkMaterialType>Песок</BulkMaterialType>
     <SandSubtype>Карьерный</SandSubtype>
     <SaleForm>Россыпью</SaleForm>
