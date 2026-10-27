@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads target="Avito.ru" formatVersion="3">
+  <Ad>
+    <Id>andrey-donskoy-new-20261027-01</Id>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Сыпучие материалы</GoodsSubType>
+    <BulkMaterialType>Песок</BulkMaterialType>
+    <BulkMaterialSubType>Карьерный</BulkMaterialSubType>
+    <PackagingType>Россыпью</PackagingType>
+    <MinSaleQuantity>4</MinSaleQuantity>
+    <PriceFor>м³</PriceFor>
+    <Condition>Новое</Condition>
+    <Title>Песок карьерный с доставкой в Донском, 4 м³</Title>
+    <Description><![CDATA[🚚 Карьерный песок с доставкой по Донскому. Машина 4 м³ — 5 800 ₽ с доставкой по городу. Подходит для подсыпки и выравнивания участков, обратной засыпки и земляных работ. Минимальный заказ по этому предложению — 4 м³. За пределами Донского рассчитываем доставку отдельно. 📩 Напишите адрес и нужный объём для уточнения заказа. Изображения иллюстративные, конкретную партию материала согласуем перед поставкой.]]></Description>
+    <Price>1450</Price>
+    <Address>Тульская область, Донской</Address>
+    <AdStatus>Free</AdStatus>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/brazabro3071-afk/avito-donskoy-public-images/main/assets/01_pesok/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/brazabro3071-afk/avito-donskoy-public-images/main/assets/01_pesok/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/brazabro3071-afk/avito-donskoy-public-images/main/assets/01_pesok/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/brazabro3071-afk/avito-donskoy-public-images/main/assets/01_pesok/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/brazabro3071-afk/avito-donskoy-public-images/main/assets/01_pesok/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/brazabro3071-afk/avito-donskoy-public-images/main/assets/01_pesok/06.jpg"/>
+    </Images>
+  </Ad>
+</Ads>
